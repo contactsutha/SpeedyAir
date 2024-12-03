@@ -15,8 +15,6 @@ E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\obj\Debug\net8.0\ref\SpeedyAir.
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.AssemblyReference.cache
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.csproj.Up2Date
-E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\FlightSch.json
-E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\Orders.json
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\EPPlus.dll
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\EPPlus.Interfaces.dll
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\EPPlus.System.Drawing.dll
@@ -36,3 +34,6 @@ E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\runtimes\win\l
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\JsonFIles\FlightSch.json
+E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\bin\Debug\net8.0\JsonFIles\Orders.json
+E:\Software_Bundles\Practice\SpeedyAir\SpeedyAir\obj\Debug\net8.0\SpeedyAir.sourcelink.json

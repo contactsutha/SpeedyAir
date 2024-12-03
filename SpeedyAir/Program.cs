@@ -9,8 +9,8 @@ public class Program
         // I have passed the flight schedule as well as the given Order Json.
         string outputDirectory = AppDomain.CurrentDomain.BaseDirectory;
 
-        string FlightSchFilePath = Path.Combine(outputDirectory, "FlightSch.json");
-        string FlightOrderFilePath = Path.Combine(outputDirectory, "Orders.json");
+        string FlightSchFilePath = Path.Combine(outputDirectory, @"Jsonfiles\FlightSch.json");
+        string FlightOrderFilePath = Path.Combine(outputDirectory, @"Jsonfiles\Orders.json");
 
         // creating Instance
         IFlightSchedule flightSchedule = new FlightSchedule();

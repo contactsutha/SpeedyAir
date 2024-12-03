@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedyAir")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa69962ffc651163260b5d4eab0f52fa8135b630")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedyAir")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedyAir")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
